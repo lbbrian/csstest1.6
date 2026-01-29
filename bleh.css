@@ -1,0 +1,68 @@
+body
+{
+    background-color: lightskyblue;
+}
+
+img {
+    border: 5px solid blue;
+    margin: 75px;
+
+}
+
+.header
+{
+    font-size: 100px;
+    color: blue;
+    font-weight:bold;
+    background-color: lightblue;
+         text-decoration: underline;
+         border: 5px dotted #0000ff;
+         text-align: center;
+}
+
+h1
+{
+    font-size: 50px;
+    padding-bottom: -20px;
+        border: 5px solid #0000ff;
+        text-decoration: underline;
+        color:gray;
+
+}
+
+p{
+    font-size: 50px;
+    font-family: 'consolas', monospace;
+    font-style: italic;
+    padding-bottom: -20px;
+        border: 5px dotted #0000ff;
+             text-decoration: underline;
+
+    
+}
+
+h2
+{  font-size: 50px;
+    padding-bottom: -20px;
+        border: 5px solid #0000ff;
+             text-decoration: underline;
+                color:gray;
+
+}
+
+h3{
+      font-size: 50px;
+    padding-bottom: -20px;
+        border: 5px solid #0000ff;
+             text-decoration: underline;
+                color:gray;
+
+}
+
+h4{
+      font-size: 50px;
+    padding-bottom: -20px;
+    border: 5px solid #0000ff;
+         text-decoration: underline;
+            color:gray;
+}
